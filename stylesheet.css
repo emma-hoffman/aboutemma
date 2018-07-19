@@ -1,0 +1,18 @@
+
+head {
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  color: black;
+  margin-right: 200px;
+}
+
+body {
+  background-color: rgb(225,229,237 );
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
